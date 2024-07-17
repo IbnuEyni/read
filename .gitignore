@@ -1,0 +1,5 @@
+venv/
+readshare/__pycache__/
+core/__pycache__/
+api/__pycache__/
+account/__pycache__/
